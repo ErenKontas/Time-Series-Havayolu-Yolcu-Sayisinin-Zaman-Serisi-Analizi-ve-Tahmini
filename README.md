@@ -1,0 +1,3 @@
+TR = Bu proje, havayolu yolcu sayılarındaki geçmiş verilere dayalı olarak gelecekteki yolcu sayısını tahmin etmeyi amaçlayan bir zaman serisi analiz modelinin geliştirilmesini hedeflemektedir. Yolcu sayısındaki mevsimsel değişiklikler ve trendleri göz önüne alarak, havayolu şirketlerinin kapasite planlaması, maliyet yönetimi ve hizmet optimizasyonu için kullanabileceği güçlü öngörüler sunulacaktır.
+
+EN = This project aims to develop a time series analysis model that aims to predict future passenger numbers based on historical data on airline passenger numbers. By considering seasonal changes and trends in passenger numbers, powerful insights will be provided that airlines can use for capacity planning, cost management and service optimization.
